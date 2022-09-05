@@ -1,0 +1,36 @@
+*{
+    background-color: #E0FFFF;
+}
+.father{
+    background-color:	#52F3FF;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    
+    
+    
+}
+
+
+ .child input {
+     width: 120px;
+     height: 80px;
+     margin-right: 4px;
+     margin-bottom: 4px;
+     font-size: 40px;
+     font-style: inherit;
+     border-radius: 20px;
+     background-color:	#52F3FF
+    
+ } 
+  
+.father .child0 input{
+    width: 480px;
+    height: 65px;
+    margin-bottom: 20px;
+    padding:0 15px;
+    font-size: 40px;
+    font-style: inherit;
+    border-radius: 20px;
+}
